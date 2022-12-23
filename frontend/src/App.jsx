@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <h3>테스트</h3>
       <p>야호! 배포 성공!</p>
+      <p>CI/CD도 성공했어!</p>
     </div>
   )
 }
